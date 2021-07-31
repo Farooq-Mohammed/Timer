@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+F:\18211a05h5\StopWatch\.metadata\.plugins\org.eclipse.jdt.core
+1518821402.index
